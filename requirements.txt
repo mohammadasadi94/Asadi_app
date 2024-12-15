@@ -1,0 +1,13 @@
+matplotlib
+pandas
+numpy
+scikit-learn
+seaborn
+sklearn.model_selection
+sklearn.linear_model
+sklearn.neighbors
+sklearn.tree
+sklearn.metrics
+sklearn.preprocessing
+matplotlib.pyplot
+
